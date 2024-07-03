@@ -37,7 +37,7 @@ Start bot : [HERE](https://t.me/firecoin_app_bot/app?startapp=r_394382178)
 
 2. Clone this repository
    ```shell
-   git clone git clone https://github.com/stwn11/FireCoinBot.git
+   git clone git clone https://github.com/foxxw0lf/FireCoinBot.git
    ```
 
 3. goto FireCoinBot directory
